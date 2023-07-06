@@ -1,4 +1,4 @@
-# Arduino Auto-Driving Car with Ultrasonic Sensors
+# Arduino Self-Driving Car with Ultrasonic Sensors
 
 This project involves building an Arduino-based auto-driving car that utilizes ultrasonic sensors to detect obstacles and make decisions on movement. The car can be started using a push button, and it is equipped with four motors for movement control. A servo motor is used to steer the front wheels. The car is programmed to respond to sensor readings and perform actions accordingly: turning left or right, moving forward, or stopping. In specific scenarios, such as detecting obstacles from multiple directions simultaneously, the car will emit a continuous beeping sound.
 
